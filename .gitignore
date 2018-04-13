@@ -1,0 +1,7 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+yarn-error.log
+node_modules
+.watchmanconfig
+.idea
